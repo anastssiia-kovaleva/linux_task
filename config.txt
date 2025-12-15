@@ -1,0 +1,4 @@
+server_name example.com;
+server_name test.com;
+# server_name old.com;
+server_name  prod-example.com;
